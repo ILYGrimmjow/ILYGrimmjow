@@ -1,29 +1,44 @@
-<!-- test-->
 
 <!--Top image-->
 <div align="center">
-<img width="423" style="display:block" src="https://github.com/user-attachments/assets/cd8e9c03-17d4-4b9c-99ee-f1862241f84f">
+<img width="413.4" alt="89d5e7b815a93174976d0a72b266ea38" src="https://github.com/user-attachments/assets/7cd70f59-d5b3-4ca2-94b5-80739e550807" />
+
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/Grimmjow-Jaegerjaquez-%2376C4E0">
-I'll make it better later
-</a>
-</div>
+<!--Left Image-->
 <table align="center" cellpadding="0" cellspacing="0">
 <tr>
-
 <td valign="top">
-<img src="https://github.com/user-attachments/assets/5e84f6d3-3459-4dd5-8251-4c6cc064fabf" width="170">
+<img src="https://img.shields.io/badge/Grimmjow-Jaegerjaquez-B279BB">
+<br>
+<img width="160" alt="image" src="https://github.com/user-attachments/assets/a100e162-66cb-483b-b519-85a7242481b7" />
 </td>
-
-<td align="center" valign="top">
-
-<img src="https://github.com/user-attachments/assets/d2569777-5b4c-48e8-94dc-5fe6c2adf83c" width="200"><br>
-<img src="https://github.com/user-attachments/assets/6f6cefcb-3f16-4f14-85e6-f65c60748bbf" width="200"><br>
-<img src="https://github.com/user-attachments/assets/5db6bc0d-acef-4ca8-b941-e0eb2788812e" width="200">
+<td align="center" valign="top" cellpadding="0" cellspacing="0">
+<!--Right Images-->
+<img width="200" alt="Screenshot 2026-08-02 112419" src="https://github.com/user-attachments/assets/b8a8843a-53d0-4de9-86d4-4816789bc0cc" />
+<!--grimm1--><br>
+<img width="200" height="2" alt="div" src="https://github.com/user-attachments/assets/22c76948-bcf9-477a-aa85-49beb7471a65" />
+<!--Main--><br>
+<a href="https://github.com/Asphyxixate">
+  <img src="https://github.com/user-attachments/assets/ce586f64-dee8-4046-b2a4-a94c0f566890" Width="200">
+</a>
+<!--Rentry--><br>
+<a href="https://rentry.co/Asphyxixate">
+  <img src="https://github.com/user-attachments/assets/938da890-abaa-46eb-b8e3-11bae0d8da91" Width="200">
+</a>
+<!--grimm2--><br>
+<img width="200" height="2" alt="div" src="https://github.com/user-attachments/assets/22c76948-bcf9-477a-aa85-49beb7471a65" />
+<!----><br>
+<img width="200" alt="dc8bb99daac208015810b4c6344133a7" src="https://github.com/user-attachments/assets/66fea0ae-e286-476c-ae55-8229e77a3fd8" />
 
 </td>
 
 </tr>
 </table>
 
+<!-- test-->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-2Grimmjow&abbreviated=true&label=Arrancars&color=5870B6">
+<img width="200" height="2" alt="div" src="https://github.com/user-attachments/assets/22c76948-bcf9-477a-aa85-49beb7471a65" />
+<img src="https://komarev.com/ghpvc/?username=your-github-2Grimmjow&abbreviated=true&label=SoulReapers&color=E27B77">
+</div>
