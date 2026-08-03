@@ -40,5 +40,5 @@
 <div align="center" align="top">
 <img src="https://komarev.com/ghpvc/?username=your-github-2&abbreviated=true&label=Arrancars&color=5870B6">
 <img width="115" alt="div5" src="https://github.com/user-attachments/assets/5aefd919-76fa-4cb1-9aaf-210e9eceed45" />
-<img src="https://komarev.com/ghpvc/?username=your-github-2&abbreviated=true&label=SoulReapers&color=E27B77">
+<img src="https://komarev.com/ghpvc/?username=your-github-asphyxixate&abbreviated=true&label=SoulReapers&color=E27B77">
 </div>
