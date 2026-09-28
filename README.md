@@ -23,8 +23,8 @@
   <img src="https://github.com/user-attachments/assets/ce586f64-dee8-4046-b2a4-a94c0f566890" Width="150">
 </a>
 <!--Rentry--><br>
-<a href="https://rentry.co/arrancars">
-  <img src="https://github.com/user-attachments/assets/938da890-abaa-46eb-b8e3-11bae0d8da91" Width="150">
+Grimmjow
+  Wow
 </a>
 <!--grimm2--><br>
 <img width="150" height="2" alt="div" src="https://github.com/user-attachments/assets/22c76948-bcf9-477a-aa85-49beb7471a65" />
