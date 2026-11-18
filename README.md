@@ -32,7 +32,7 @@ _**INTERESTS**_
 
 **BLEACH**, __Tokyoghoul__\
 Gokurakugai, Chainsaw man\
-Dorohedoro, Jujutsu Kaisen\
+Dorohedoro, Jujutsu Kaisenㅤㅤㅤㅤ
 
 <hr>
 
