@@ -38,7 +38,8 @@ Dorohedoro, Jujutsu Kaisenㅤㅤㅤㅤㅤ
 
 *EXTRA*
 
-Im so effing awkward
+Im so effing awkward\
+also peep my art as my pfp and the left img
 
 <hr>
 
